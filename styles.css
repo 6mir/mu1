@@ -355,6 +355,7 @@ footer {
 
                 input {
                     width: 160px;
+                    font-size: 12px;
                 }
 
                 input::placeholder {
@@ -367,7 +368,7 @@ footer {
             }
 
             bittom {
-                font-size: 12px;
+                font-size: 10px;
                 padding: 5px;
             }
         }
@@ -415,7 +416,7 @@ footer {
 
             .box .item {
                 h3 {
-                    font-size: 12px;
+                    font-size: 11px;
                 }
 
                 img {
